@@ -31,7 +31,7 @@ export default function Signup() {
       );
       toast.success("Successfully Signed Up !");
 
-      navigate("/login");
+      navigate("/");
     } catch (error) {
       toast.error(error.response?.data?.message || "Something went wrong!");
 
