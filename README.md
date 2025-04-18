@@ -27,6 +27,10 @@ A simple and responsive e-commerce web application built with **React**, **Vite*
 
 ---
 
+## 📍 Live Demo
+
+## 👉 [Click here to view the live app](https://everything-shop.netlify.app/)
+
 ## 📬 Contact
 
 If you like this project or want to collaborate, feel free to reach out:
